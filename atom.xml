@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Czy</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>MakeDown</title>
-    <link href="http://yoursite.com/2020/01/09/MakeDown/"/>
-    <id>http://yoursite.com/2020/01/09/MakeDown/</id>
+    <link href="http://yoursite.com/uncategorized/MakeDown/"/>
+    <id>http://yoursite.com/uncategorized/MakeDown/</id>
     <published>2020-01-08T17:36:54.034Z</published>
     <updated>2020-01-08T18:25:46.329Z</updated>
     
@@ -42,8 +42,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/01/08/hello-world/"/>
-    <id>http://yoursite.com/2020/01/08/hello-world/</id>
+    <link href="http://yoursite.com/uncategorized/hello-world/"/>
+    <id>http://yoursite.com/uncategorized/hello-world/</id>
     <published>2020-01-08T15:17:27.422Z</published>
     <updated>2020-01-08T15:17:27.422Z</updated>
     
