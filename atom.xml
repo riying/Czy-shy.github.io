@@ -5,9 +5,9 @@
   <subtitle>只争朝夕，不负韶华</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://czy-shy.github.io/"/>
   <updated>2020-01-08T18:25:46.329Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://czy-shy.github.io/</id>
   
   <author>
     <name>Czy</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>MakeDown</title>
-    <link href="http://yoursite.com/MakeDown.html"/>
-    <id>http://yoursite.com/MakeDown.html</id>
+    <link href="https://czy-shy.github.io/MakeDown.html"/>
+    <id>https://czy-shy.github.io/MakeDown.html</id>
     <published>2020-01-08T17:36:54.034Z</published>
     <updated>2020-01-08T18:25:46.329Z</updated>
     
@@ -42,10 +42,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/hello-world.html"/>
-    <id>http://yoursite.com/hello-world.html</id>
+    <link href="https://czy-shy.github.io/hello-world.html"/>
+    <id>https://czy-shy.github.io/hello-world.html</id>
     <published>2020-01-08T15:17:27.422Z</published>
-    <updated>2020-01-08T15:17:27.422Z</updated>
+    <updated>2020-01-17T07:25:38.380Z</updated>
     
     <summary type="html">
     
@@ -57,6 +57,8 @@
     </summary>
     
     
+    
+      <category term="闲谈" scheme="https://czy-shy.github.io/tags/%E9%97%B2%E8%B0%88/"/>
     
   </entry>
   

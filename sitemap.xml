@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/categories/index.html</loc>
+    <loc>https://czy-shy.github.io/hello-world.html</loc>
+    
+    <lastmod>2020-01-17T07:25:38.380Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://czy-shy.github.io/categories/index.html</loc>
     
     <lastmod>2020-01-15T16:03:24.424Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
+    <loc>https://czy-shy.github.io/tags/index.html</loc>
     
     <lastmod>2020-01-15T15:59:01.250Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/404.html</loc>
+    <loc>https://czy-shy.github.io/404.html</loc>
     
     <lastmod>2020-01-08T21:43:49.568Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/MakeDown.html</loc>
+    <loc>https://czy-shy.github.io/MakeDown.html</loc>
     
     <lastmod>2020-01-08T18:25:46.329Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/hello-world.html</loc>
-    
-    <lastmod>2020-01-08T15:17:27.422Z</lastmod>
     
   </url>
   
