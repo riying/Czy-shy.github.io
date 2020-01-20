@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Czy&#39;s Blog</title>
   <subtitle>只争朝夕，不负韶华</subtitle>
-  <link href="http://chezengyang.topchezengyang.top/atom.xml" rel="self"/>
+  <link href="http://chezengyang.top/atom.xml" rel="self"/>
   
   <link href="http://chezengyang.top/"/>
   <updated>2020-01-20T12:24:20.333Z</updated>
