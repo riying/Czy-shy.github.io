@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Czy&#39;s Blog</title>
+  <icon>http://chezengyang.top/icon.png</icon>
   <subtitle>只争朝夕，不负韶华</subtitle>
-  <link href="http://chezengyang.top/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
   <link href="http://chezengyang.top/"/>
   <updated>2020-01-23T20:10:17.858Z</updated>
@@ -13,7 +14,7 @@
     
   </author>
   
-  <generator uri="http://hexo.io/">Hexo</generator>
+  <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>MakeDown</title>
@@ -24,10 +25,17 @@
     
     <summary type="html">
     
-      &lt;p&gt;写在前面：本文配置适用于 NexT-7.1.2，现在（2020 年 1 月 13 日）NexT 主题已经更新至 7.7.0，不少配置已经改变，大家可以结合一下这两篇文章：Hexo-NexT 版本更新记录、本博客当前使用的插件总结。&lt;/p&gt;
-&lt;p&gt;一、获取 NexT&lt;br&gt;1
+      
+      
+        
+        
+          &lt;p&gt;写在前面：本文配置适用于 NexT-7.1.2，现在（2020 年 1 月 13 日）NexT 主题已经更新至 7.7.0，不少配置已经改变，大家可以结合一下这两篇文章：Hexo-NexT 版本更新记录、本博客当前使用的插件总结。&lt;/p&gt;
+&lt;p&gt;一、获取
+        
+      
     
     </summary>
+    
     
       <category term="My life" scheme="http://chezengyang.top/categories/My-life/"/>
     
@@ -45,9 +53,16 @@
     
     <summary type="html">
     
-      &lt;h6 id=&quot;first-title&quot;&gt;&lt;a href=&quot;#first-title&quot; class=&quot;headerlink&quot; title=&quot;first title&quot;&gt;&lt;/a&gt;first title&lt;/h6&gt;
+      
+      
+        
+        
+          &lt;h6 id=&quot;first-title&quot;&gt;&lt;a href=&quot;#first-title&quot; class=&quot;headerlink&quot; title=&quot;first title&quot;&gt;&lt;/a&gt;first
+        
+      
     
     </summary>
+    
     
       <category term="My life" scheme="http://chezengyang.top/categories/My-life/"/>
     
