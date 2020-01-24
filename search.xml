@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>MakeDown</title>
+    <url>/posts/5413a8b9.html</url>
+    <content><![CDATA[<p>写在前面：本文配置适用于 NexT-7.1.2，现在（2020 年 1 月 13 日）NexT 主题已经更新至 7.7.0，不少配置已经改变，大家可以结合一下这两篇文章：Hexo-NexT 版本更新记录、本博客当前使用的插件总结。</p>
+<p>一、获取 NexT<br>1、下载最新 release 版本<br>通常情况下请选择 stable 版本。推荐不熟悉的用户按此方式进行。</p>
+<p>这种方式将仅提供最新的 release 版本（其中不附带 .git 目录）。因此，你无法通过 git 更新这一方式安装的主题。</p>
+<p>更新：推荐使用独立的配置文件（数据文件）而不在主题源代码进行更改，便于后续的更新（下载最新版本，替换掉旧版本）。</p>
+<p>二、站点配置<br>1、设置 hexo 的 next 主题<br>我们在站点的配置文件_config.yml 中找到 theme 后添加：</p>
+]]></content>
+      <categories>
+        <category>My life</category>
+      </categories>
+      <tags>
+        <tag>My life</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/posts/4a17b156.html</url>
+    <content><![CDATA[<h6 id="first-title"><a href="#first-title" class="headerlink" title="first title"></a>first title</h6>]]></content>
+      <categories>
+        <category>My life</category>
+      </categories>
+      <tags>
+        <tag>My life</tag>
+      </tags>
+  </entry>
+</search>
