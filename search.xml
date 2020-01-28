@@ -1,30 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>MakeDown</title>
-    <url>/posts/5413a8b9.html</url>
-    <content><![CDATA[<p>写在前面：本文配置适用于 NexT-7.1.2，现在（2020 年 1 月 13 日）NexT 主题已经更新至 7.7.0，不少配置已经改变，大家可以结合一下这两篇文章：Hexo-NexT 版本更新记录、本博客当前使用的插件总结。</p>
-<p>一、获取 NexT<br>1、下载最新 release 版本<br>通常情况下请选择 stable 版本。推荐不熟悉的用户按此方式进行。</p>
-<p>这种方式将仅提供最新的 release 版本（其中不附带 .git 目录）。因此，你无法通过 git 更新这一方式安装的主题。</p>
-<p>更新：推荐使用独立的配置文件（数据文件）而不在主题源代码进行更改，便于后续的更新（下载最新版本，替换掉旧版本）。</p>
-<p>二、站点配置<br>1、设置 hexo 的 next 主题<br>我们在站点的配置文件_config.yml 中找到 theme 后添加：</p>
+    <title>Hello World</title>
+    <url>/posts/undefined.html</url>
+    <content><![CDATA[<p><img data-src="Hello-World/helloworld.jpg" alt="HelloWorld"></p>
+<a id="more"></a>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言  "></a>前言  </h2><blockquote>
+<p>登山则情满于山，观海则意溢于海。  </p>
+</blockquote>
+<hr>
+<h2 id="憨憨建站辛酸路"><a href="#憨憨建站辛酸路" class="headerlink" title="憨憨建站辛酸路"></a>憨憨建站辛酸路</h2><h3 id="Jekyll-GithubPage"><a href="#Jekyll-GithubPage" class="headerlink" title="Jekyll+GithubPage"></a>Jekyll+GithubPage</h3><p> 真正开始建站是在2020年1月8日，也就是我刚考完试的那天<del>猜完试</del>，刚开始确实是<strong>啥也不会</strong>， js，css，html连基础语法都没搞懂 ，就是开始了面向google编程，太<del>舒服</del>了。起初我选定的是Jekyll+GithubPage框架，emm其实就是fork了一个博主的代码，对着她的建站博文来修改，很香。<strong>但是</strong>当我开始更换域名的时候，发现没有文章中提到的CNAME文件，我？？？，我一度以为是博主在坑人（真诚道歉，其实自己建一个就行了），于是我就白给了<del>是我太菜</del>。</p>
+<h3 id="Hexo-GithubPage"><a href="#Hexo-GithubPage" class="headerlink" title="Hexo+GithubPage"></a>Hexo+GithubPage</h3><p>又经过了一番搜索，最终我选了hexo+next（v5.0+）主题。为啥要强调主题版本？<strong>因为这是个巨坑！</strong>next主题非常香，更新非常快，现在已经是v7.0+了。但是，我啥也不会啊！！！我最初选的v5.0+，以及现在的稳定版v6.0+拥有着非常多的建站指南，官方文档也很详细。我对照着文档，花了几个通宵<del>不提倡硬肝</del>（那段时间白天睡醒了还有事情做），也就建好了。接下来<strong>剁手时间到</strong>，我又把版本提到了最新的v7.7，一下回到了解放前。面临的最主要问题是，最新的版本使用的人不多，所以技术支持也很寒酸，也就意味着我在面对一些船新配置的时候我需要自己去看代码，查翻译<del>没错,是这样，我已经反省了，开始背单词了</del>，前端代码第一印象很繁琐，不过看着看着也就习惯了，中间因为一些难以发现的bug，推倒重来了五六次 。于是我摒弃了最初改了一堆配置，直接hexo三连部署的方法，而是修改一到两项就hexo clean，hexo g， hexo  s，进行本地调试，最终发现了bug。当然还是直接阅读源码找bug的方法更牛！显然我还不行emm ，嘿嘿。因为对前端实在兴趣有限，我就简单配置了一些功能，初心还是用来写一些学习总结的。大道至简嘛！<br>ps：其实是我的服务端没怎么优化，SEO也没弄明白，慢慢弄啦。</p>
+<hr>
+<h2 id="特别鸣谢"><a href="#特别鸣谢" class="headerlink" title="特别鸣谢"></a>特别鸣谢</h2><ul>
+<li>赵天昊学长❥(^_-)，<del>罪恶源头</del>，教我多实践，提供了很多精神支撑哈哈哈</li>
+<li><a href="https://tding.top/" target="_blank" rel="noopener">小丁的个人博客</a></li>
+<li><a href="https://www.liaofuzhan.com/" target="_blank" rel="noopener">北宸的个人博客</a> </li>
+<li><a href="http://www.aomanhao.top/" target="_blank" rel="noopener">AomanHao的个人博客</a></li>
+</ul>
+<hr>
+<h2 id="最后的话"><a href="#最后的话" class="headerlink" title="最后的话"></a>最后的话</h2><p>这是我的第一篇博文，因为寒假不长，再加上还有别的任务，本来计划春节之前完成，结果还是因为<del>菜</del>拖到了年后。因为得前人的经验指导，我才能搭出来这么一个Blog，于情于理我都该写一些技术上的经验<del>挖坑ing</del>好了，我的MarkDown语法也练的差不多了，哈哈。都不知道熬了多少个通宵了，就是因为没实现一个小功能，夜晚的时间过得真快。新年快乐！</p>
 ]]></content>
       <categories>
-        <category>My life</category>
+        <category>My Life</category>
+        <category>随笔</category>
       </categories>
       <tags>
-        <tag>My life</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/posts/4a17b156.html</url>
-    <content><![CDATA[<h6 id="first-title"><a href="#first-title" class="headerlink" title="first title"></a>first title</h6>]]></content>
-      <categories>
-        <category>My life</category>
-      </categories>
-      <tags>
-        <tag>My life</tag>
+        <tag>My Life</tag>
       </tags>
   </entry>
 </search>

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Czy&#39;s Blog</title>
-  <icon>http://chezengyang.top/icon.png</icon>
   <subtitle>只争朝夕，不负韶华</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="http://chezengyang.top/atom.xml" rel="self"/>
   
   <link href="http://chezengyang.top/"/>
-  <updated>2020-01-23T20:10:17.858Z</updated>
+  <updated>2020-01-28T14:24:10.000Z</updated>
   <id>http://chezengyang.top/</id>
   
   <author>
@@ -14,60 +13,27 @@
     
   </author>
   
-  <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>MakeDown</title>
-    <link href="http://chezengyang.top/posts/5413a8b9.html"/>
-    <id>http://chezengyang.top/posts/5413a8b9.html</id>
-    <published>2020-01-23T20:10:17.858Z</published>
-    <updated>2020-01-23T20:10:17.858Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;写在前面：本文配置适用于 NexT-7.1.2，现在（2020 年 1 月 13 日）NexT 主题已经更新至 7.7.0，不少配置已经改变，大家可以结合一下这两篇文章：Hexo-NexT 版本更新记录、本博客当前使用的插件总结。&lt;/p&gt;
-&lt;p&gt;一、获取
-        
-      
-    
-    </summary>
-    
-    
-      <category term="My life" scheme="http://chezengyang.top/categories/My-life/"/>
-    
-    
-      <category term="My life" scheme="http://chezengyang.top/tags/My-life/"/>
-    
-  </entry>
+  <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://chezengyang.top/posts/4a17b156.html"/>
-    <id>http://chezengyang.top/posts/4a17b156.html</id>
-    <published>2020-01-23T17:22:41.977Z</published>
-    <updated>2020-01-23T17:22:41.977Z</updated>
+    <link href="http://chezengyang.top/posts/undefined.html"/>
+    <id>http://chezengyang.top/posts/undefined.html</id>
+    <published>2020-01-28T14:24:10.000Z</published>
+    <updated>2020-01-28T14:24:10.000Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h6 id=&quot;first-title&quot;&gt;&lt;a href=&quot;#first-title&quot; class=&quot;headerlink&quot; title=&quot;first title&quot;&gt;&lt;/a&gt;first
-        
-      
+      &lt;p&gt;&lt;img src=&quot;Hello-World/helloworld.jpg&quot; alt=&quot;HelloWorld&quot;&gt;&lt;/p&gt;
     
     </summary>
     
+      <category term="My Life" scheme="http://chezengyang.top/categories/My-Life/"/>
     
-      <category term="My life" scheme="http://chezengyang.top/categories/My-life/"/>
+      <category term="随笔" scheme="http://chezengyang.top/categories/My-Life/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="My life" scheme="http://chezengyang.top/tags/My-life/"/>
+      <category term="My Life" scheme="http://chezengyang.top/tags/My-Life/"/>
     
   </entry>
   
