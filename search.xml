@@ -3,7 +3,7 @@
   <entry>
     <title>Hello World</title>
     <url>/posts/undefined.html</url>
-    <content><![CDATA[<p><img data-src="Hello-World/helloworld.jpg" alt="HelloWorld"></p>
+    <content><![CDATA[<img data-src="/posts/undefined/helloworld.jpg" class title="Hello World!">
 <a id="more"></a>
 <h2 id="前言"><a href="#前言" class="headerlink" title="前言  "></a>前言  </h2><blockquote>
 <p>登山则情满于山，观海则意溢于海。  </p>

@@ -24,7 +24,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;Hello-World/helloworld.jpg&quot; alt=&quot;HelloWorld&quot;&gt;&lt;/p&gt;
+      &lt;img data-src=&quot;/posts/undefined/helloworld.jpg&quot; class title=&quot;Hello World!&quot;&gt;
     
     </summary>
     
